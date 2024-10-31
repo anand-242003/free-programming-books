@@ -10,7 +10,10 @@
 * [AutoIt](#autoit)
 * [Ballerina](#ballerina)
 * [Bash / Shell](#bash--shell)
+
 * [Blockchain](#blockchain)
+* [Solidity Smart Contract Development](https://updraft.cyfrin.io/courses/solidity) - Patrick Collins, Austin Griffith
+
 * [C](#c)
 * [C#](#csharp)
 * [C++](#cpp)
